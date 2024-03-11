@@ -1,5 +1,5 @@
 <XML> 
 
-This is java Web config file.
+This is java Web config file
 
 </XML>
